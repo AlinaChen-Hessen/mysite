@@ -18,4 +18,4 @@ enableRobotsTXT = true
   ShowSummary = true
 
   # 列表页展示封面图（如果文章里设置了 cover.image）
-  ShowPostCover = true
+  ShowPostCover = false

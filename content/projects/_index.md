@@ -1,7 +1,7 @@
 ---
 title: "My Creations"
-cascade:
-  type: "posts"
+layout: "list"
+
 ---
 
 🎨✨ Welcome to my creations!
