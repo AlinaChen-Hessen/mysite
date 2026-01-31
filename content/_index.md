@@ -2,27 +2,27 @@
 title: "Alina"
 ---
 
-欢迎来到我的个人网站 👋  
-这里记录了我的学习、项目和生活。
+HI 👋, welcome to my Website!  
+I hope you like it!
 
 ---
 
-## 🧭 我的世界
+##  Here are all the things you need to know:
 
-### 🏫 [我的学校](/school/)
-学习经历、课程与校园生活  
+###  [Things about ME](/mestuff/)  
+Things you need to know about me.
 
-### 💻 [我的项目](/projects/)
-学习项目与个人创作  
+###  [my creations](/projects/)
+Here are some of my creations.
 
-### 🌱 [我的日常](/daily/)
-生活中的点滴记录  
+###  [News](/daily/)
+There will be some news here.
 
-### 🎮 [我的娱乐](/entertainment/)
-游戏、影视与轻松时刻  
+###  [FUN Zone](/entertainment/)
+Find the FUN STUFF!
 
-### 🎨 [我的兴趣](/interests/)
-长期或阶段性的兴趣爱好  
+###  [Stuff you never knew](/interests/)
+A lot of things you didn`t know...
 
-### 👤 [关于我](/about/)
-关于我和这个网站
+###  [Communication](/about/)
+You want to communicate, here is the right spot.
