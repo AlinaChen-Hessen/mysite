@@ -1,4 +1,4 @@
-baseURL = "https://AlinaChen-Hessen.github.io/mysite/" 
+baseURL = "https://alinachen-hessen.github.io/mysite/" 
 languageCode = "zh-cn"
 title = "我的 Alina site"
 theme = "PaperMod"
