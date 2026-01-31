@@ -9,20 +9,20 @@ I hope you like it!
 
 ##  Here are all the things you need to know:
 
-###  [Things about ME](/mestuff/)  
+###  [Things about ME](mestuff/)  
 Things you need to know about me.
 
-###  [my creations](/projects/)
+###  [my creations](projects/)
 Here are some of my creations.
 
-###  [News](/daily/)
+###  [News](daily/)
 There will be some news here.
 
-###  [FUN Zone](/entertainment/)
+###  [FUN Zone](entertainment/)
 Find the FUN STUFF!
 
-###  [Stuff you never knew](/interests/)
+###  [Stuff you never knew](interests/)
 A lot of things you didn`t know...
 
-###  [Communication](/about/)
+###  [Communication](about/)
 You want to communicate, here is the right spot.

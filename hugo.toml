@@ -8,6 +8,12 @@ enableRobotsTXT = true
 [params]
   ShowReadingTime = true
   ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowShareButtons = false
   ShowCodeCopyButtons = true
-  disableSpecial1stPost = true
 
+  # 列表页显示摘要（summary 或自动截取）
+  ShowSummary = true
+
+  # 列表页展示封面图（如果文章里设置了 cover.image）
+  ShowPostCover = true
