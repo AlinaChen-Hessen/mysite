@@ -6,7 +6,8 @@ theme = "PaperMod"
 enableRobotsTXT = true
 
 [params]
-  mainSections = ["posts"]
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
+  disableSpecial1stPost = true
+
