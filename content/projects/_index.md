@@ -1,5 +1,7 @@
 ---
 title: "My Creations"
+cascade:
+  type: "posts"
 ---
 
 🎨✨ Welcome to my creations!
