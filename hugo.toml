@@ -1,0 +1,12 @@
+baseURL = "https://AlinaChen-Hessen.github.io/mysite/" 
+languageCode = "zh-cn"
+title = "我的 Alina site"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+  mainSections = ["posts"]
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
