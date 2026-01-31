@@ -2,12 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alinachen-hessen.github.io/mysite/</loc>
+    <loc>http://localhost:1313/mysite/</loc>
+    <lastmod>2026-01-31T18:12:03+08:00</lastmod>
   </url><url>
-    <loc>https://alinachen-hessen.github.io/mysite/categories/</loc>
+    <loc>http://localhost:1313/mysite/posts/hello-world/</loc>
+    <lastmod>2026-01-31T18:12:03+08:00</lastmod>
   </url><url>
-    <loc>https://alinachen-hessen.github.io/mysite/posts/</loc>
+    <loc>http://localhost:1313/mysite/posts/</loc>
+    <lastmod>2026-01-31T18:12:03+08:00</lastmod>
   </url><url>
-    <loc>https://alinachen-hessen.github.io/mysite/tags/</loc>
+    <loc>http://localhost:1313/mysite/projects/</loc>
+    <lastmod>2026-01-31T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mysite/projects/project001/</loc>
+    <lastmod>2026-01-31T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mysite/mestuff/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mysite/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mysite/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mysite/daily/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mysite/entertainment/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mysite/interests/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mysite/tags/</loc>
   </url>
 </urlset>

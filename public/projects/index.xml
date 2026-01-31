@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Creations on 我的 Alina site</title>
+    <link>http://localhost:1313/mysite/projects/</link>
+    <description>Recent content in My Creations on 我的 Alina site</description>
+    <generator>Hugo -- 0.155.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 31 Jan 2026 10:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/mysite/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Drawing</title>
+      <link>http://localhost:1313/mysite/projects/project001/</link>
+      <pubDate>Sat, 31 Jan 2026 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/mysite/projects/project001/</guid>
+      <description>A colorful drawing I made with pencils.</description>
+    </item>
+  </channel>
+</rss>

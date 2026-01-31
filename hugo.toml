@@ -12,6 +12,8 @@ enableRobotsTXT = true
   ShowShareButtons = false
   ShowCodeCopyButtons = true
 
+  mainSections = ["posts"]
+
   # 列表页显示摘要（summary 或自动截取）
   ShowSummary = true
 
